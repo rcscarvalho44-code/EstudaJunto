@@ -55,9 +55,9 @@ Classificações mantidas da atividade de Stakeholders da Aula 11. Poder médio 
 |---|---|---|---|---|
 | PO e Developers | Prioridades e atividades da Sprint | Sprint Planning | A cada Sprint | Product Owner |
 | PO e Developers | Progresso e impedimentos | Daily Scrum | Diária | Developers |
-| PO, Developers, orientador, gestor, professores | Incremento e resultados | Sprint Review | A cada Sprint | Product Owner |
+| Product Owner, equipe de desenvolvimento, professor-orientador, gestor do programa EstudaJunto e professores supervisores | Incremento e resultados | Sprint Review | A cada Sprint | Product Owner |
 | Scrum Team | Dificuldades e melhorias internas | Sprint Retrospective | A cada Sprint | Scrum Master facilita; Developers participam |
-| Monitores e alunos participantes | Funcionalidades destinadas aos estudantes | Reunião de apresentação | A cada entrega | Product Owner |
+| Alunos monitores e alunos com dificuldades | Funcionalidades destinadas aos estudantes | Reunião de apresentação | A cada entrega | Product Owner |
 | Direção da instituição | Resultados e entregas | Relatório por e-mail | A cada entrega | Product Owner |
 
 ## Quadro e limite de WIP
